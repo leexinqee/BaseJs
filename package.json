@@ -1,0 +1,16 @@
+{
+  "name": "baseJS",
+  "version": "1.0.0",
+  "description": "baseJs is same as jquery and prototype,it's small and simpe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leexinqee",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.2"
+  }
+}
